@@ -24,6 +24,7 @@
    
     ```bash
     # make sure to adjust script to your need
+    python scripts/eamber_single.py
     ```
 
 Methods
