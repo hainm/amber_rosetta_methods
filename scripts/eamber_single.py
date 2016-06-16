@@ -10,7 +10,8 @@ def main():
     traj = pt.iterload(files, top=parm)
     
     energies = pt.energy_decomposition(traj, igb=8)['tot']
-    print(energies)
+    for fn, potential in zip(files, energies):
+        print(fn, potential)
 
 if __name__ == '__main__':
     """python scripts/eamber_single.py 1a32
