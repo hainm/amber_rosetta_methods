@@ -1,22 +1,30 @@
 - Generate all pdb files for AMBER with given pdb code (e.g. `1a32`)
 
+    ```bash
     python scripts/pdbgen_from_rosetta.py 1a32
     # Notes: I only include only a single structure in `1a32` for demo
+    ```
 
 - Generate topology and resart files for AMBER minimization
 
+    ```bash
     python scripts/generate_rst7_parm7_files.py 1a32
+    ```
 
 - Run minimization
     
+    ```bash
     cd 1a32/
     python ../scripts/run_min.py -p empty_tag_11229_0001.parm7 -c "NoH*.rst7" -i ../input/min.in
 
     # minimized coordinate filename: min*rst7
+    ```
 
 - Get AMBER potential energy
    
+    ```bash
     # Kristin: fill here please
+    ```
 
 Methods
 -------
