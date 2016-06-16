@@ -20,10 +20,10 @@
     # minimized coordinate filename: min*rst7
     ```
 
-- Get AMBER potential energy
+- Get AMBER potential energy for a given pdb code
    
     ```bash
-    # Kristin: fill here please
+    # make sure to adjust script to your need
     ```
 
 Methods
