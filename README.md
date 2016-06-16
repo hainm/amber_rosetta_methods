@@ -25,6 +25,9 @@
     ```bash
     # make sure to adjust script to your need
     python scripts/eamber_single.py
+
+    # Expectation: AMBER potential energy for one of snapshots
+    # ('1a32/min_NoH_empty_tag_11229_0001.rst7', -3661.805075801537)
     ```
 
 Methods
