@@ -27,6 +27,12 @@
     # Make sure to update the loop mask in min.1oyc.in if you work with another protein code
     ```
 
+- Compute AMBER potential energy
+
+    ```bash
+    python scripts/eamber_single.py 1oyc
+    ```
+
 Methods
 -------
 - Minimization were performed using 14SBonlysc force field and GBNeck2 implicit solvent model.
