@@ -7,8 +7,8 @@
 
     # $pdb_folder: folder that have all original pdb files
     # $root_dir: where you have $pdb_folder 
-    # This script will create a $pdb_folder in this current dir and generate AMBER's topology and restart files
-    # for minimization.
+    # This script will create a $pdb_folder in this current dir
+    # and generate AMBER's topology and restart files for minimization.
     # For demonstration, I kept only a single pdb file, rst7 and prmtop in ./1be908_wt folder
     ```
 
