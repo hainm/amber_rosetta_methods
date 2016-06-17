@@ -42,5 +42,6 @@ XMIN method is used with max cycles of 1000. Minimization will be stopped if the
 of the Cartesian elements of the gradients is less than 0.01 kcal/mol. The heavy atoms of non-loop region were
 restrained with restraint force constant of 10.0 (kcal/mol-Å^2)
 
-All minimization and energy evaluations were performed with the development version of [AmberTools16](
+All minimization and energy evaluations were performed with the sander and its Python interface `pysander`
+program in development version of [AmberTools16](
 http://ambermd.org/AmberTools16-get.html)
