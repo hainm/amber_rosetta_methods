@@ -5,11 +5,12 @@
     export pdb_folder=1oyc
     python scripts/generate_rst7_parm7_files.py $pdb_folder $root_dir
 
-    # $pdb_folder: folder that have all original pdb files
+    # $pdb_folder: a new $pdb_folder will be created in this current folder
     # $root_dir: where you have all original pdb files
+
     # This script will create a $pdb_folder in this current dir
     # and generate AMBER's topology and restart files for minimization.
-    # For demonstration, I kept only:
+    # For demonstration, I only kept:
     #     1oyc.1oyc_1oyc3476_0001.parm7
     #     NoH_1oyc_1oyc3476_0001.pdb
     #     NoH_1oyc_1oyc3476_0001.rst7
