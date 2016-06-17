@@ -41,7 +41,7 @@ Methods
 XMIN method is used with max cycles of 1000. Minimization will be stopped if the root-mean-square
 of the Cartesian elements of the gradients is less than 0.01 kcal/mol.
 
-- The ddG values were calculated by MMPB(GB)SA program.
+- The ddG values were calculated using by MM-GBSA method with MMPBSA.py program.
 
 All minimization and energy evaluations were performed with the development version of [AmberTools16](
 http://ambermd.org/AmberTools16-get.html)
