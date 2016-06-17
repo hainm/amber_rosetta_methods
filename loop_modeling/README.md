@@ -19,7 +19,8 @@
     
     ```bash
     cd 1oyc
-    python ../scripts/run_min.py -p 1oyc.1oyc_1oyc3476_0001.parm7  -O -c "NoH*.rst7" -i ../input/min.1oyc.in
+    python ../scripts/run_min.py -p 1oyc.1oyc_1oyc3476_0001.parm7 \
+           -O -c "NoH*.rst7" -i ../input/min.1oyc.in
 
     # minimized coordinate filename: min*rst7
     # Make sure to update the loop mask in min.1oyc.in if you work with another protein code
