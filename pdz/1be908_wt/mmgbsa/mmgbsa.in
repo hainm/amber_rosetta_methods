@@ -1,0 +1,9 @@
+Input file for running MMGBSA with GBneck2 model
+&general
+   endframe=50, verbose=2,
+   keep_files=1,
+   use_sander=1,
+/
+&gb
+  igb=8,
+/
