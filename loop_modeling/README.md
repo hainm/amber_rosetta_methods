@@ -31,6 +31,8 @@
 
     ```bash
     python scripts/eamber_single.py 1oyc
+
+    # '1oyc/min_NoH_1oyc_1oyc3476_0001.rst7', -14104.493621118669 (kcal/mol)
     ```
 
 Methods
