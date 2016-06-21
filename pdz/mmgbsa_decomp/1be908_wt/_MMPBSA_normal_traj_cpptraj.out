@@ -1,0 +1,326 @@
+
+CPPTRAJ: Trajectory Analysis. V16.00
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 06/21/16 13:51:12
+| Available memory: 214.177 GB
+
+	Reading '../../../../1be908_wt/prmtop' as Amber Topology
+INPUT: Reading input from 'STDIN'
+  [trajin ../../../../1be908_wt/no_restraint_new_protocol/min_NoH_*rst7 1 50 1]
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_10_6_repacked_wt_round_1_0016.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_1_6_repacked_wt_round_1_0019.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_2_6_repacked_wt_round_1_0006.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_2_6_repacked_wt_round_1_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_3_6_repacked_wt_round_1_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_3_6_repacked_wt_round_1_0017.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_4_6_repacked_wt_round_1_0001.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_4_6_repacked_wt_round_1_0007.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_5_6_repacked_wt_round_1_0012.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_5_6_repacked_wt_round_1_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_6_6_repacked_wt_round_1_0018.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_7_6_repacked_wt_round_1_0008.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_7_6_repacked_wt_round_1_0014.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_8_6_repacked_wt_round_1_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_6_1_9_6_repacked_wt_round_1_0010.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_10_8_repacked_wt_round_5_0004.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_1_8_repacked_wt_round_5_0002.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_1_8_repacked_wt_round_5_0014.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_2_8_repacked_wt_round_5_0003.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_2_8_repacked_wt_round_5_0016.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_2_8_repacked_wt_round_5_0019.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_6_8_repacked_wt_round_5_0004.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_6_8_repacked_wt_round_5_0014.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_7_8_repacked_wt_round_5_0011.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_8_8_repacked_wt_round_5_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_9_8_repacked_wt_round_5_0006.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_8_5_9_8_repacked_wt_round_5_0019.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_10_9_repacked_wt_round_2_0003.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_1_9_repacked_wt_round_2_0005.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_1_9_repacked_wt_round_2_0006.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_1_9_repacked_wt_round_2_0014.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_2_9_repacked_wt_round_2_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_3_9_repacked_wt_round_2_0004.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_3_9_repacked_wt_round_2_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0001.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0006.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0010.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0012.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0015.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_4_9_repacked_wt_round_2_0019.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_5_9_repacked_wt_round_2_0019.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_6_9_repacked_wt_round_2_0004.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_6_9_repacked_wt_round_2_0016.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_7_9_repacked_wt_round_2_0010.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_8_9_repacked_wt_round_2_0006.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_9_9_repacked_wt_round_2_0004.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_9_9_repacked_wt_round_2_0005.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_9_9_repacked_wt_round_2_0009.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_9_9_repacked_wt_round_2_0014.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+	Reading '../../../../1be908_wt/no_restraint_new_protocol/min_NoH_9_2_9_9_repacked_wt_round_2_0020.rst7' as Amber NC Restart
+Warning: stop 50 > #Frames (1), setting to max.
+  [noprogress]
+	Progress bar will not be used during Run.
+  [rmsd !(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL) mass first]
+    RMSD: (!(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL)), reference is first frame (!(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL)), mass-weighted.
+	Best-fit RMSD will be calculated, coords will be rotated and translated.
+  [outtraj _MMPBSA_complex.pdb onlyframes 1 nobox pdb]
+	Saving frames 1
+	Writing '_MMPBSA_complex.pdb' as PDB
+    OUTTRAJ: Writing frames associated with topology 'prmtop'
+  [outtraj _MMPBSA_dummycomplex.inpcrd onlyframes 1 nobox restart]
+	Saving frames 1
+	Writing '_MMPBSA_dummycomplex.inpcrd' as Amber Restart
+    OUTTRAJ: Writing frames associated with topology 'prmtop'
+  [outtraj _MMPBSA_complex.nc.0 onlyframes 1-50 nobox netcdf]
+	Saving frames 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+	Writing '_MMPBSA_complex.nc.0' as Amber NetCDF
+    OUTTRAJ: Writing frames associated with topology 'prmtop'
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: prmtop, 1851 atoms, 123 res, box: None, 2 mol
+
+INPUT TRAJECTORIES (50 total):
+ 0: 'min_NoH_6_1_10_6_repacked_wt_round_1_0016.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 1: 'min_NoH_6_1_1_6_repacked_wt_round_1_0019.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 2: 'min_NoH_6_1_2_6_repacked_wt_round_1_0006.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 3: 'min_NoH_6_1_2_6_repacked_wt_round_1_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 4: 'min_NoH_6_1_3_6_repacked_wt_round_1_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 5: 'min_NoH_6_1_3_6_repacked_wt_round_1_0017.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 6: 'min_NoH_6_1_4_6_repacked_wt_round_1_0001.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 7: 'min_NoH_6_1_4_6_repacked_wt_round_1_0007.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 8: 'min_NoH_6_1_5_6_repacked_wt_round_1_0012.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 9: 'min_NoH_6_1_5_6_repacked_wt_round_1_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 10: 'min_NoH_6_1_6_6_repacked_wt_round_1_0018.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 11: 'min_NoH_6_1_7_6_repacked_wt_round_1_0008.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 12: 'min_NoH_6_1_7_6_repacked_wt_round_1_0014.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 13: 'min_NoH_6_1_8_6_repacked_wt_round_1_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 14: 'min_NoH_6_1_9_6_repacked_wt_round_1_0010.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 15: 'min_NoH_8_5_10_8_repacked_wt_round_5_0004.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 16: 'min_NoH_8_5_1_8_repacked_wt_round_5_0002.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 17: 'min_NoH_8_5_1_8_repacked_wt_round_5_0014.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 18: 'min_NoH_8_5_2_8_repacked_wt_round_5_0003.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 19: 'min_NoH_8_5_2_8_repacked_wt_round_5_0016.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 20: 'min_NoH_8_5_2_8_repacked_wt_round_5_0019.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 21: 'min_NoH_8_5_6_8_repacked_wt_round_5_0004.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 22: 'min_NoH_8_5_6_8_repacked_wt_round_5_0014.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 23: 'min_NoH_8_5_7_8_repacked_wt_round_5_0011.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 24: 'min_NoH_8_5_8_8_repacked_wt_round_5_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 25: 'min_NoH_8_5_9_8_repacked_wt_round_5_0006.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 26: 'min_NoH_8_5_9_8_repacked_wt_round_5_0019.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 27: 'min_NoH_9_2_10_9_repacked_wt_round_2_0003.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 28: 'min_NoH_9_2_1_9_repacked_wt_round_2_0005.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 29: 'min_NoH_9_2_1_9_repacked_wt_round_2_0006.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 30: 'min_NoH_9_2_1_9_repacked_wt_round_2_0014.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 31: 'min_NoH_9_2_2_9_repacked_wt_round_2_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 32: 'min_NoH_9_2_3_9_repacked_wt_round_2_0004.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 33: 'min_NoH_9_2_3_9_repacked_wt_round_2_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 34: 'min_NoH_9_2_4_9_repacked_wt_round_2_0001.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 35: 'min_NoH_9_2_4_9_repacked_wt_round_2_0006.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 36: 'min_NoH_9_2_4_9_repacked_wt_round_2_0010.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 37: 'min_NoH_9_2_4_9_repacked_wt_round_2_0012.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 38: 'min_NoH_9_2_4_9_repacked_wt_round_2_0015.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 39: 'min_NoH_9_2_4_9_repacked_wt_round_2_0019.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 40: 'min_NoH_9_2_5_9_repacked_wt_round_2_0019.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 41: 'min_NoH_9_2_6_9_repacked_wt_round_2_0004.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 42: 'min_NoH_9_2_6_9_repacked_wt_round_2_0016.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 43: 'min_NoH_9_2_7_9_repacked_wt_round_2_0010.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 44: 'min_NoH_9_2_8_9_repacked_wt_round_2_0006.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 45: 'min_NoH_9_2_9_9_repacked_wt_round_2_0004.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 46: 'min_NoH_9_2_9_9_repacked_wt_round_2_0005.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 47: 'min_NoH_9_2_9_9_repacked_wt_round_2_0009.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 48: 'min_NoH_9_2_9_9_repacked_wt_round_2_0014.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+ 49: 'min_NoH_9_2_9_9_repacked_wt_round_2_0020.rst7' is a NetCDF AMBER restart file, Parm prmtop (reading 1 of 1)
+  Coordinate processing will occur on 50 frames.
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'prmtop' (4 actions):
+  0: [rmsd !(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL) mass first]
+	Target mask: [!(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL)](1851)
+	Reference mask: [!(:WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL)](1851)
+  1: [outtraj _MMPBSA_complex.pdb onlyframes 1 nobox pdb]
+  '_MMPBSA_complex.pdb' is a PDB file, Parm prmtop (no box info): Writing frames 1
+  2: [outtraj _MMPBSA_dummycomplex.inpcrd onlyframes 1 nobox restart]
+  '_MMPBSA_dummycomplex.inpcrd' is an AMBER restart file, Parm prmtop (no box info): Writing frames 1
+  3: [outtraj _MMPBSA_complex.nc.0 onlyframes 1-50 nobox netcdf]
+  '_MMPBSA_complex.nc.0' is a NetCDF AMBER trajectory, Parm prmtop (no box info): Writing frames 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+----- min_NoH_6_1_10_6_repacked_wt_round_1_0016.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_1_6_repacked_wt_round_1_0019.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_2_6_repacked_wt_round_1_0006.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_2_6_repacked_wt_round_1_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_3_6_repacked_wt_round_1_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_3_6_repacked_wt_round_1_0017.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_4_6_repacked_wt_round_1_0001.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_4_6_repacked_wt_round_1_0007.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_5_6_repacked_wt_round_1_0012.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_5_6_repacked_wt_round_1_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_6_6_repacked_wt_round_1_0018.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_7_6_repacked_wt_round_1_0008.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_7_6_repacked_wt_round_1_0014.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_8_6_repacked_wt_round_1_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_6_1_9_6_repacked_wt_round_1_0010.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_10_8_repacked_wt_round_5_0004.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_1_8_repacked_wt_round_5_0002.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_1_8_repacked_wt_round_5_0014.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_2_8_repacked_wt_round_5_0003.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_2_8_repacked_wt_round_5_0016.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_2_8_repacked_wt_round_5_0019.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_6_8_repacked_wt_round_5_0004.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_6_8_repacked_wt_round_5_0014.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_7_8_repacked_wt_round_5_0011.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_8_8_repacked_wt_round_5_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_9_8_repacked_wt_round_5_0006.rst7 (1-1, 1) -----
+
+----- min_NoH_8_5_9_8_repacked_wt_round_5_0019.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_10_9_repacked_wt_round_2_0003.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_1_9_repacked_wt_round_2_0005.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_1_9_repacked_wt_round_2_0006.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_1_9_repacked_wt_round_2_0014.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_2_9_repacked_wt_round_2_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_3_9_repacked_wt_round_2_0004.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_3_9_repacked_wt_round_2_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0001.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0006.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0010.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0012.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0015.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_4_9_repacked_wt_round_2_0019.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_5_9_repacked_wt_round_2_0019.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_6_9_repacked_wt_round_2_0004.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_6_9_repacked_wt_round_2_0016.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_7_9_repacked_wt_round_2_0010.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_8_9_repacked_wt_round_2_0006.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_9_9_repacked_wt_round_2_0004.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_9_9_repacked_wt_round_2_0005.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_9_9_repacked_wt_round_2_0009.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_9_9_repacked_wt_round_2_0014.rst7 (1-1, 1) -----
+
+----- min_NoH_9_2_9_9_repacked_wt_round_2_0020.rst7 (1-1, 1) -----
+
+Read 50 frames and processed 50 frames.
+TIME: Avg. throughput= 708.1852 frames / second.
+
+ACTION OUTPUT:
+  OUTTRAJ: [_MMPBSA_complex.pdb] Wrote 1 frames.
+  OUTTRAJ: [_MMPBSA_dummycomplex.inpcrd] Wrote 1 frames.
+  OUTTRAJ: [_MMPBSA_complex.nc.0] Wrote 50 frames.
+
+DATASETS (1 total):
+	RMSD_00001 "RMSD_00001" (double, rms), size is 50
+
+RUN TIMING:
+TIME:		Init               : 0.0001 s (  0.14%)
+TIME:		Trajectory Process : 0.0706 s ( 98.57%)
+TIME:		Action Post        : 0.0000 s (  0.03%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 0.0000 s (  0.05%)
+TIME:		Other              : 0.0009 s (  0.01%)
+TIME:	Run Total 0.0716 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.1648 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+

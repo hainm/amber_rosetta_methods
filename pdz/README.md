@@ -34,6 +34,9 @@
     # Expectation: AMBER's ddG (kcal/mol) for demo snapshot
     # min_NoH_9_2_9_9_repacked_wt_round_2_0020.rst7: -63.18075344
     ```
+- mmgbsa_decomp
+ 
+    This folder has per residue energy decomposition.
 
 Methods
 -------
