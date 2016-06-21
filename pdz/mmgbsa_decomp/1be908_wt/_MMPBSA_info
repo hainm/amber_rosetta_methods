@@ -1,0 +1,120 @@
+# You can alter the variables below to change what info is printed out
+INPUT['debug_printlevel'] = 2
+INPUT['verbose'] = 2
+INPUT['csv_format'] = 1
+INPUT['dec_verbose'] = 0
+#
+# MODIFY NOTHING BELOW HERE, OR GET WHAT YOU DESERVE
+INPUT['nmode_igb'] = 1
+INPUT['solvcut'] = 14.0
+INPUT['linit'] = 1000
+INPUT['nmendframe'] = 1000000
+INPUT['probe'] = 1.4
+INPUT['inp'] = 2
+INPUT['exdi'] = 80.0
+INPUT['dielc'] = 1.0
+INPUT['cavity_offset'] = -0.5692
+INPUT['receptor_mask'] = None
+INPUT['saltcon'] = 0.0
+INPUT['entropy'] = 0
+INPUT['solvbox'] = '-1,-1,-1'
+INPUT['qmcharge_lig'] = 0
+INPUT['keep_files'] = 2
+INPUT['pbrun'] = False
+INPUT['fillratio'] = 4.0
+INPUT['gbrun'] = True
+INPUT['istrng'] = 0.0
+INPUT['ligand_mask'] = None
+INPUT['qmcharge_rec'] = 0
+INPUT['endframe'] = 50
+INPUT['gbsa'] = 2
+INPUT['mutant_only'] = 0
+INPUT['ng'] = '-1,-1,-1'
+INPUT['nmstartframe'] = 1
+INPUT['igb'] = 8
+INPUT['closureorder'] = 1
+INPUT['radiopt'] = 1
+INPUT['rismrun_std'] = False
+INPUT['tolerance'] = 1e-05
+INPUT['qmcut'] = 9999.0
+INPUT['thermo'] = 'std'
+INPUT['qm_theory'] = ''
+INPUT['buffer'] = 14.0
+INPUT['alarun'] = False
+INPUT['print_res'] = 'all'
+INPUT['surfoff'] = 0.0
+INPUT['search_path'] = 0
+INPUT['surften'] = 0.0072
+INPUT['molsurf'] = 0
+INPUT['qmcharge_com'] = 0
+INPUT['drms'] = 0.001
+INPUT['scale'] = 0.5
+INPUT['grdspc'] = 0.5
+INPUT['sander_apbs'] = 0
+INPUT['qm_residues'] = ''
+INPUT['rismrun_gf'] = False
+INPUT['maxcyc'] = 10000
+INPUT['netcdf'] = 'netcdf'
+INPUT['nmode_istrng'] = 0.0
+INPUT['closure'] = 'kh'
+INPUT['use_sander'] = 1
+INPUT['nminterval'] = 1
+INPUT['ifqnt'] = 0
+INPUT['temp'] = 298.15
+INPUT['polardecomp'] = 0
+INPUT['rism_verbose'] = 0
+INPUT['cavity_surften'] = 0.0378
+INPUT['interval'] = 1
+INPUT['full_traj'] = 0
+INPUT['strip_mask'] = ':WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,CL'
+INPUT['nmoderun'] = False
+INPUT['prbrad'] = 1.4
+INPUT['msoffset'] = 0.0
+INPUT['decomprun'] = True
+INPUT['rismrun'] = False
+INPUT['startframe'] = 1
+INPUT['indi'] = 1.0
+INPUT['idecomp'] = 2
+FILES.clean = False
+FILES.complex_prmtop = '../../../../1be908_wt/prmtop'
+FILES.infilehelp = False
+FILES.input_file = '../mmgbsa.in'
+FILES.ligand_mdcrd = None
+FILES.ligand_prmtop = None
+FILES.make_mdins = False
+FILES.mdcrd = ['../../../../1be908_wt/no_restraint_new_protocol/min_NoH_*rst7']
+FILES.mutant_complex_prmtop = None
+FILES.mutant_ligand_prmtop = None
+FILES.mutant_receptor_prmtop = None
+FILES.prefix = '_MMPBSA_'
+FILES.receptor_mdcrd = None
+FILES.receptor_prmtop = None
+FILES.solvated_ligand_prmtop = None
+FILES.solvated_prmtop = None
+FILES.solvated_receptor_prmtop = None
+FILES.use_mdins = False
+FILES.xvvfile = '/project1/dacase-001/haichit/amber/amber16/dat/mmpbsa/spc.xvv'
+size = 1
+numframes = 50
+numframes_nmode = 0
+mut_str = 'None'
+using_chamber = False
+|Input file:
+|--------------------------------------------------------------
+|MMPBSA.py input file for running GB, http://ambermd.org/doc12/Amber16.pdf
+|&general
+|   startframe=1, endframe=50,
+|   keep_files=2,
+|   debug_printlevel=2,
+|   use_sander=1,
+|   netcdf=1,
+|/
+|&gb
+|   igb=8,
+|   molsurf=0,
+|/
+|&decomp
+|   csv_format=1,
+|   dec_verbose=0,
+|   idecomp=2,
+|--------------------------------------------------------------
