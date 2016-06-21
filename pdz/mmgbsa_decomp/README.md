@@ -42,3 +42,5 @@
     ```bash
     Section: "Decomposition Data" in http://ambermd.org/doc12/Amber16.pdf (page 675)
     ```
+
+- Require [AmberTools16](http://ambermd.org/AmberTools16-get.html)
