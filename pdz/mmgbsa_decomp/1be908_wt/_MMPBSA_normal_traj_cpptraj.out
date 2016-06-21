@@ -4,8 +4,8 @@ CPPTRAJ: Trajectory Analysis. V16.00
      | \/ | \/ | \/ | 
     _|_/\_|_/\_|_/\_|_
 
-| Date/time: 06/21/16 13:51:12
-| Available memory: 214.177 GB
+| Date/time: 06/21/16 13:51:58
+| Available memory: 214.164 GB
 
 	Reading '../../../../1be908_wt/prmtop' as Amber Topology
 INPUT: Reading input from 'STDIN'
@@ -298,7 +298,7 @@ ACTION SETUP FOR PARM 'prmtop' (4 actions):
 ----- min_NoH_9_2_9_9_repacked_wt_round_2_0020.rst7 (1-1, 1) -----
 
 Read 50 frames and processed 50 frames.
-TIME: Avg. throughput= 708.1852 frames / second.
+TIME: Avg. throughput= 990.4128 frames / second.
 
 ACTION OUTPUT:
   OUTTRAJ: [_MMPBSA_complex.pdb] Wrote 1 frames.
@@ -309,15 +309,15 @@ DATASETS (1 total):
 	RMSD_00001 "RMSD_00001" (double, rms), size is 50
 
 RUN TIMING:
-TIME:		Init               : 0.0001 s (  0.14%)
-TIME:		Trajectory Process : 0.0706 s ( 98.57%)
-TIME:		Action Post        : 0.0000 s (  0.03%)
+TIME:		Init               : 0.0001 s (  0.10%)
+TIME:		Trajectory Process : 0.0505 s ( 98.48%)
+TIME:		Action Post        : 0.0000 s (  0.02%)
 TIME:		Analysis           : 0.0000 s (  0.00%)
-TIME:		Data File Write    : 0.0000 s (  0.05%)
-TIME:		Other              : 0.0009 s (  0.01%)
-TIME:	Run Total 0.0716 s
+TIME:		Data File Write    : 0.0000 s (  0.02%)
+TIME:		Other              : 0.0007 s (  0.01%)
+TIME:	Run Total 0.0513 s
 ---------- RUN END ---------------------------------------------------
-TIME: Total execution time: 0.1648 seconds.
+TIME: Total execution time: 0.1117 seconds.
 --------------------------------------------------------------------------------
 To cite CPPTRAJ use:
 Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
